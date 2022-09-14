@@ -1,6 +1,8 @@
 # ConnectionsLab_A1
 Assignment 1 for Connections Lab
 
+Demo Link: https://suirunzhao.github.io/ConnectionsLab_A1/Kaleidoscope/ 
+
 Wireframe 1
 ![Home1](https://user-images.githubusercontent.com/102000475/190200602-5eb70199-b3fd-436c-a6ac-50c2fed94b92.png)
 
